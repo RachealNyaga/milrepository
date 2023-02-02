@@ -1,0 +1,17 @@
+.App footer p{
+text-transform: uppercase;
+    text-align: center;
+}
+.foot{
+text-align: center;
+color: rgb(14, 185, 51);
+background-color: white;
+font-weight: 800;
+}
+.btn{
+    text-align: center;
+    color: blueviolet;
+}
+.foot p{
+    text-align: center;
+}

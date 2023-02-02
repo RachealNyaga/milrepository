@@ -1,0 +1,16 @@
+div{
+    font-weight: 300;
+   
+display: block;
+}
+div p {
+    background-color: aqua;
+    padding: 50px;
+
+}
+.lorem{
+    display: block;
+margin: auto;
+width: 50%;
+margin-top: 90px;
+}

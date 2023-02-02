@@ -1,0 +1,20 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  text-transform: uppercase;
+  color: blue;
+  border: 1px solid blue;
+}
+
+.rotess {
+  display: flex;
+  flex-direction: row;
+  margin-right: 25px;
+}
+.rotess li {
+  display: flex;
+  flex-direction: row;
+  padding-left: 50%;
+  padding-bottom: 0;
+  
+}
